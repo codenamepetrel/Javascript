@@ -52,6 +52,3 @@ if (process.env.MODE === 'poll') {
     getAndDisplayMessages();
     streamMessages();
 }   
-
-
-}
